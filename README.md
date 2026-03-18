@@ -26,7 +26,7 @@ If you want only the writing and not the notebook lines scanned, you may have so
 
 ### Example of Running the Program
 ```
-python3 scan.py test_images/test-color.jpg --colors r,g,b,bl --output test_color_output
+python3 scan.py test_images/test_color.jpg --colors r,g,b,bl --output test_color_output
 ```
 
 ### Program Flags
